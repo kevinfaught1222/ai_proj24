@@ -22,6 +22,7 @@ async function main() {
     prompt: 'What is the current weather in San Francisco?',
   });
 
+  // consume the text stream
   for await (const textPart of result.textStream) {
   }
 }
