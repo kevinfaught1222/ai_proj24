@@ -47,7 +47,7 @@
     "msw": "2.3.1",
     "react-dom": "^18",
     "tsup": "^7.2.0",
-    "typescript": "5.5.4",
+    "typescript": "7.0.2",
     "zod": "3.23.8"
   },
   "peerDependencies": {
